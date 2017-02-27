@@ -1,9 +1,9 @@
 {
-	"name": "html-snippets",
-	"displayName": "HTML Snippets",
-	"description": "Full HTML tags including HTML5 Snippets",
+	"name": "ejs-snippets",
+	"displayName": "ejs Snippets",
+	"description": "using in ejs file, clone from HTML5 Snippets",
 	"version": "0.1.0",
-	"publisher": "abusaidm",
+	"publisher": "Taodong Wu",
 	"icon": "images/icon.png",
 	"engines": {
 		"vscode": "^1.9.1"
@@ -18,7 +18,7 @@
 	"contributes": {
 		"snippets": [
 			{
-				"language": "html",
+				"language": "ejs",
 				"path": "./snippets/snippets.json"
 			}
 		]
